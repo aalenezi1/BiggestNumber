@@ -17,11 +17,11 @@ int main()
   
   if( number1 > number2 ) {
 
-  cout<<"Of those two numbers, the biggest is : "<<number1;
+  cout<<"Of those two numbers, the biggest is: "<<number1;
   }
   
 else {
-cout<<"Of those two numbers, the biggest is : "<<number2;
+cout<<"Of those two numbers, the biggest is: "<<number2;
 }
   cout<<endl<<"Thank you for playing.\n";
 
